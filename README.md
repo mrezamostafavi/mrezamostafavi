@@ -2,8 +2,8 @@
 - 👀 I’m interested in EEG signal processing, machine/deep learning, and neuroscience
 - 🌱 I’m currently M.Sc student in Digital Electronic Systems at IUST
 - 💞️ I’m looking to collaborate on ML or DL projects related to EEG signal processing or classification
-- 📫 How to reach me: Linkedin -> https://www.linkedin.com/in/mohammadreza-mostafavi/
--                      Gmail -> mrezamostafavi98@gmail.com
+- 📫 How to reach me: Linkedin -> https://www.linkedin.com/in/mohammadreza-mostafavi/ or Gmail -> mrezamostafavi98@gmail.com
+  
 
 <!---
 mrezamostafavi/mrezamostafavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
